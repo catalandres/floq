@@ -11,5 +11,6 @@ Floq is a [homophonic](https://en.wikipedia.org/wiki/Homophone) [portmanteau](ht
 
 ## How do I use it?
 1. Enable **Allow Apex code to set and remove approval process locks**, under **Process Automation Settings** in your Salesforce org.
-2. Drop the contents of the `force-app/main/default/classes` folder in your project.
+2. Fork this repo and drop the contents of the `force-app/main/default/classes` folder in your project.
 3. Build awesome things.
+4. If you make any improvements to the code, [share them with the rest of the world](https://github.com/catalandres/floq/blob/main/LICENSE), and feel free to make a pull request.
